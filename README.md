@@ -25,7 +25,7 @@ Find me links
 LinkedIn: https://www.linkedin.com/in/jwilliams1217/
 
 ### Top Projects
-#### - DJ Co-Pilot (Primary)
+#### - DJ Co-Pilot ([Primary](https://github.com/JamesOWilliams/DJ-CoPilot)) 
 
 An AI co-pilot designed to assist users through complex workflows using structured LLM orchestration, safe fallbacks, and human review loops.
 Focus: reliability, explainability, and production-ready AI behavior.
