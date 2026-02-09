@@ -3,7 +3,7 @@
 
 Creative TPM building AI co-pilot products with LLM-powered workflows, orchestration layers, and human-in-the-loop design.
 
-### Check out my Latest Demo ()
+### 👉 Live App: ( https://dj-co-pilot-web.vercel.app/ )
 #### Teck Stack
 Core:
 
@@ -25,7 +25,7 @@ Find me links
 LinkedIn: https://www.linkedin.com/in/jwilliams1217/
 
 ### Top Projects
-#### - AI Co-Pilot (Primary)
+#### - DJ Co-Pilot (Primary)
 
 An AI co-pilot designed to assist users through complex workflows using structured LLM orchestration, safe fallbacks, and human review loops.
 Focus: reliability, explainability, and production-ready AI behavior.
@@ -33,4 +33,4 @@ Focus: reliability, explainability, and production-ready AI behavior.
 #### AI Workflow Playbook
 
 A practical guide documenting how I design, prompt, and ship AI workflows—from zero to working MVP.
-Focus: repeatable patterns, real constraints, and lessons learned.
+Focus: repeatable patterns, real constraints, and lessons learned. (Coming Soon)
