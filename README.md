@@ -1,5 +1,5 @@
 # What's good?! 👋 I'm James (Smokey) Williams 
-### AI co-pilot experiences for complex workflows | Guided Automation | Human-in-the-loop systems design 
+### AI co-pilot experiences for complex workflows | Fault Tolerant & Graceful Degredation | Human-in-the-loop systems design 
 
 Creative TPM building AI co-pilot products with LLM-powered workflows, orchestration layers, and human-in-the-loop design.
 
