@@ -21,16 +21,17 @@ Product & Systems:
 
 -Analytics-driven iteration
 
-Find me links
-LinkedIn: https://www.linkedin.com/in/jwilliams1217/
+### Find me
+
+#### 🔗 LinkedIn: https://www.linkedin.com/in/jwilliams1217/
 
 ### Top Projects
-#### - DJ Co-Pilot ([Primary](https://github.com/JamesOWilliams/DJ-CoPilot)) 
+#### 💿 DJ Co-Pilot ([Primary](https://github.com/JamesOWilliams/DJ-CoPilot)) 
 
 An AI co-pilot designed to assist users through complex workflows using structured LLM orchestration, safe fallbacks, and human review loops.
 Focus: reliability, explainability, and production-ready AI behavior.
 
-#### AI Workflow Playbook ([Playbook](https://github.com/JamesOWilliams/DJ-CoPilot/blob/main/DJ%20Co-Pilot%20Portfolio%20Case%20Study.pdf))
+#### 📘 AI Workflow Playbook ([Playbook](https://github.com/JamesOWilliams/DJ-CoPilot/blob/main/DJ%20Co-Pilot%20Portfolio%20Case%20Study.pdf))
 
 A practical guide documenting how I design, prompt, and ship AI workflows—from zero to working MVP.
 Focus: repeatable patterns, real constraints, and lessons learned. (Coming Soon)
